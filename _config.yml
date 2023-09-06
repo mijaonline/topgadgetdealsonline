@@ -1,5 +1,5 @@
 # Site
-name: 'Techtrendtrove'
+name: 'TopGadgetDeals'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: bestgadgetdeals
+      author: TopGadgetDeals
       avatar: /assets/images/avatar1.jpg
       
   # all pages

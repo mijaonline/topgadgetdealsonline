@@ -42,6 +42,20 @@ a.text-dark:hover {
 .z-index-1 {
 	z-index:1;
 }
+/* Adjust the size of social media icons in the footer */
+footer {
+	text-align: center;
+  }
+  
+  .social-icon {
+	display: inline-block;
+	margin: 0 10px;
+  }
+  
+  .social-icon img {
+	width: 30px;
+	height: 30px;
+  }
 @media (max-width:991.98px) {
 	.display-3 {
 		font-size:3.5rem;

@@ -1,13 +1,11 @@
 ---
 layout: post
-image: assets/images/gateway.jpg
 title: Unveiling the Gateway 14.1" Ultra Slim Notebook: A Closer Look at the Cheapest Core i5 Laptop on Amazon
 date: 2023-09-13 12:00:00 +0545
 categories: [Laptop Reviews, Technology, Product Reviews]
+tags: [sticky]
 author: godesignbuild.tech
-tags: sticky
-summary: Explore the features and performance of the Gateway 14.1" Ultra Slim Notebook, the most affordable Core i5 laptop available on Amazon.
-tags: [Gateway Laptop, Intel Core i5, FHD Touchscreen, Windows 11, Laptop Deals, Tech Gadgets]
+image: assets/images/gateway.jpg
 ---
 
 # Unveiling the Gateway 14.1" Ultra Slim Notebook: A Closer Look at the Cheapest Core i5 Laptop on Amazon

@@ -1,12 +1,12 @@
 # Site
 name: 'TopGadgetDeals'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: 'Discover the latest and greatest gadget deals online!'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/topfavicon.ico'
 baseurl: '/'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+email: 'michael.honey18@gmail.com'
+mailchimp-list: ''
 
 include: ["_pages"]
 permalink: /:title/
@@ -20,9 +20,9 @@ plugins:
   
 authors:
     sal:
-      name:           godesignbuild.tech
-      site:           https://godesignbuild.tech
-      avatar:         /assets/images/avatar1.jpg
+      name:           topgadgetdealsonline
+      site:           https://topgadgetdeals.online
+      avatar:         /assets/images/topavatar.png
       bio:            
       email:         
       twitter:        

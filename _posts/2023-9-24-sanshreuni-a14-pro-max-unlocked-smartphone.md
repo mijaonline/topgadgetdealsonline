@@ -5,7 +5,7 @@ date: 2023-09-24 10:00:00 +0000
 categories: [Technology, Smartphones, Product Reviews, Gadgets, Mobile Devices]
 tags: SANSHREUNI, A14 Pro Max, Unlocked Smartphone, Android 13.0, 5G, 256 GB Storage, Gold Color, 6.82 Inch Display, GSM, Wi-Fi, CDMA, LTE, Product Features, Tech Gadgets, Mobile Technology
 author: topgadgetdeals
-image: assets/images/Game On.png
+image: assets/images/SANSHREUNI.jpg
 ---
 
 # Discover the Power of the SANSHREUNI A14 Pro Max Unlocked Smartphone!

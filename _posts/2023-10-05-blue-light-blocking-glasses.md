@@ -5,7 +5,7 @@ date: 2023-10-05 10:00:00 +0000
 categories: [Technology, Hardware]
 tags: Featured
 author: topgadgetdeals
-image: assets/
+image: assets/images/bluelightglasses.png
 ---
 
 ![Blue Light Blocking Glasses](https://images.example.com/blue-light-blocking-glasses.jpg)

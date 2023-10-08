@@ -36,7 +36,7 @@ Get ready for the perfect early holiday gift for your family. Introducing the **
 
 Get the **Amazon Fire Max 11 Tablet** for just $164.99, down from the list price of $244.99. You'll save $80.00 (32%) on this incredible tablet. Plus, if you have a trade-in, you can save an extra 20%. Don't miss this exclusive offer!
 
-[Grab Yours Now](https://amzn.to/3ZQth3J)
+[Grab Yours Now](https://amzn.to/3RJga2m)
 
 This is the ultimate tablet for endless entertainment and productivity, and it's the perfect early holiday treat for your family. Get yours today and make this holiday season extra special!
 

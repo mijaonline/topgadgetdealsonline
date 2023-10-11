@@ -3,7 +3,7 @@ layout: post
 title: "Introducing Amazon Fire Max 11 Tablet: Your Perfect Holiday Gift"
 date: 2023-10-08
 categories: [Tablets, Amazon, Holiday Gifts]
-tags: Featured
+tags: [Sticky]]
 author: topgadgetdeals
 image: assets/images/firemax11.png
 ---

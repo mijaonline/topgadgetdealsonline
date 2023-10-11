@@ -3,7 +3,6 @@ layout: post
 title: "Stay Charged On-the-Go with Anker's PowerCore Slim 10000"
 date: 2023-10-11
 categories: [Gadgets, Mobile Accessories, Product Reviews]
-image: /images/anker-powercore.jpg
 tags: [Sticky]
 author: topgadgetdeals
 image: assets/images/ANKER.png

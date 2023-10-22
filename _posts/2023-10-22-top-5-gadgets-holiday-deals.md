@@ -20,6 +20,7 @@ The holiday season is the perfect time to spread joy and show your loved ones ho
 - **Form Factor:** On Ear
 - **Connectivity Technology:** RF, Bluetooth 5.0
 - **Price:** $34.95 - $49.95
+[Amazon Link](https://amzn.to/3Sa15XD)
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=godesignbuild-20&language=en_US&marketplace=amazon&region=US&placement=B08WM1V5P1&asins=B08WM1V5P1&linkId=5750cab476ef67dd375b548e16520591&show_border=true&link_opens_in_new_window=true"></iframe>
 
 **Description:**
@@ -32,6 +33,7 @@ The Tune 510BT wireless headphones feature renowned JBL Pure Bass sound, ensurin
 - **Form Factor:** Case
 - **Compatible Devices:** 2022 / 2021 iPad Pro, iPad Air, Galaxy Tab, and more
 - **Price:** $15.99 (36% off)
+[Amazon Link](https://amzn.to/3FoqVzP)
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=godesignbuild-20&language=en_US&marketplace=amazon&region=US&placement=B01DBV1OKY&asins=B01DBV1OKY&linkId=c6c31dbda47b31d5e3c75c68050b7aa3&show_border=true&link_opens_in_new_window=true"></iframe>
 
 **Description:**
@@ -45,6 +47,7 @@ This tablet stand is a versatile gift for anyone with a tablet or smartphone. It
 - **Refresh Rate:** 165 Hz
 - **Connectivity Technology:** DisplayPort, HDMI
 - **Price:** $279.99 (20% off)
+[Amazon Link](https://amzn.to/3s0IQcz)
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=godesignbuild-20&language=en_US&marketplace=amazon&region=US&placement=B09TMJ9LGR&asins=B09TMJ9LGR&linkId=8ba5390598c27d8bbc1d9277d025c0b5&show_border=true&link_opens_in_new_window=true"></iframe>
 
 **Description:**
@@ -56,6 +59,7 @@ For gamers, the SAMSUNG Odyssey G55A Gaming Monitor is a dream come true. With s
 - **Model Name:** PD200X
 - **Color:** Black
 - **Price:** $55.99 (20% off)
+[Amazon Link](https://amzn.to/3saQjWx)
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=godesignbuild-20&language=en_US&marketplace=amazon&region=US&placement=B0BSFG4SCW&asins=B0BSFG4SCW&linkId=97c7904eedd603bfb4545b853e354be0&show_border=true&link_opens_in_new_window=true"></iframe>
 
 **Description:**
@@ -66,6 +70,7 @@ For streamers, podcasters, and gamers, the MAONO PD200X Dynamic Microphone is an
 - **Brand:** MoKo
 - **Color:** Black / Rainbow
 - **Price:** $28.78 (20% off)
+[Amazon Link](https://amzn.to/3Qalzgm)
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=godesignbuild-20&language=en_US&marketplace=amazon&region=US&placement=B0CBS6HDFS&asins=B0CBS6HDFS&linkId=316a182bea6799c33efcc0ff2dfe328e&show_border=true&link_opens_in_new_window=true"></iframe>
 
 **Description:**

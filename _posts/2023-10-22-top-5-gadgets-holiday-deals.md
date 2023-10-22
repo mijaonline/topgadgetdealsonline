@@ -3,7 +3,7 @@ layout: post
 title: Top 5 Gadgets for Holiday Deals, Perfect for Gift-Giving
 date: 2023-10-22
 categories: Gadgets, Deals, Gift Ideas, TopGadgetDeals
-tags: Sticky
+tags: sticky
 author: topgadgetdeals
 image: assets/images/top5gadget.png
 ---

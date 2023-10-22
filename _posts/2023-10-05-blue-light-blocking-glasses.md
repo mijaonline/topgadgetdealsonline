@@ -3,7 +3,7 @@ layout: post
 title: How to Protect Your Eyes from Computer Screens
 date: 2023-10-05 10:00:00 +0000
 categories: [BlueLightGlasses, EyeHealth, TechReviews]
-tags: sticky
+tags: Featured
 author: topgadgetdeals
 image: assets/images/bluelightglasses.png
 ---

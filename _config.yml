@@ -3,7 +3,7 @@ name: 'TopGadgetDeals'
 description: 'Discover the latest and greatest gadget deals online!'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/topfavicon.ico'
-baseurl: '/'
+baseurl: "/"
 disqus: 'demowebsite'
 email: 'michael.honey18@gmail.com'
 mailchimp-list: ''
